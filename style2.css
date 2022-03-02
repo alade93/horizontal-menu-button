@@ -1,0 +1,28 @@
+.button {
+  background: grey;
+  border: solid;
+  border-radius: 3px;
+  font: 700 13px arial;
+  height: 30px;
+  line-height: 28px;
+  padding: 0 20px;
+  text-align: center;
+  margin-right: 10px;
+  box-sizing: border-box;
+}
+ul {
+  padding: 0;
+  text-decoration: none;
+}
+li {
+  display: inline;
+}
+a {
+  color: darkslateblue;
+  text-decoration: none;
+  float: left;
+}
+a:hover {
+  color: blanchedalmond;
+  background-color: crimson;
+}

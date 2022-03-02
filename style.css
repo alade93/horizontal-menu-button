@@ -1,0 +1,28 @@
+#nav {
+  background-color: firebrick;
+  height: 35px;
+  font-size: 25px;
+  font-weight: bold;
+  font: tahoma;
+}
+#nav ul {
+  padding: 0;
+  margin: 0;
+  list-style: none;
+  text-align: center;
+}
+#nav li {
+  display: inline;
+  padding: 15px;
+  vertical-align: middle;
+}
+#nav a {
+  text-decoration: none;
+  color: cornsilk;
+  vertical-align: middle;
+  padding: 8px 8px 8px 8px;
+}
+#nav a:hover {
+  color: blue;
+  background-color: darkgray;
+}
